@@ -32,18 +32,6 @@
 # Getting Started with Machine Learning : Music Genre Prediction
 These codes can be used as a reference to build a music genre classifier using the Decision Tree algorithm in scikit-learn library. The codes includes the implementation of the model training, testing and prediction, as well as the storage of the trained model in Jupyter Notebook. This repository can serve as a starting point for those interested in exploring Decision Trees for music genre classification and can be easily modified to fit specific needs and data.
 
-# Requirement :
- - Python 3.x
- - pandas library for data manipulation.
- - scikit-learn library for machine learning algorithms.
- - graphviz library for visualizing decision trees.
- - Jupyter Notebook for executing code [Installing Jupyter Notebooks/Anaconda](https://youtu.be/WUeBzT43JyY)
- - scikit-learn's joblib library for storing trained models for future use.
- - A dataset for training the Decision Tree classifier [music.csv](http://bit.ly/music-csv)
- 
- **********************************************************************************************************************************************************************
- 
-*If you have any ideas or suggestions for improving this project, feel free to fork the repository, make changes, and submit a pull request. With your contributions, we can make this project even better.*
 
 
  
